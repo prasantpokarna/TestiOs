@@ -15,6 +15,5 @@ steps:
     actions: 'build'
     configuration: 'Debug'
     sdk: 'iphoneos'
-    scheme: 'iOSTemplate'
     xcodeVersion: '13'
     packageApp: true
